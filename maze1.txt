@@ -1,0 +1,10 @@
+30 8
+6 29
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x x x                        x
+xxxxxx xxxxxxxxxxxxxxxxxx    x
+xxxxx  xx               xxxx x
+xxxxx   x                  x x
+xxxx   xx                  x x
+xxxxx    x                 x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

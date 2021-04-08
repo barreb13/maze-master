@@ -1,0 +1,12 @@
+50 10
+5 49
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                x 
+x   xxx  xxxxx     xxxxx     xxxxx    xxxxx      x
+x    x   x         x         x        x          x
+x xxx    x         x         x        x          x
+x        x         xxxxx     xxxxx    xxxxx       
+xxxxxx   x             x         x    x          x
+x        x             x         x    x          x
+xxxxxx   xxxxx     xxxxx     xxxxx    xxxxx      x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
